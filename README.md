@@ -1,5 +1,6 @@
 # tool_rental
 test tool rental site with node.js, angularjs, mysql 
+This site shows the list of rental tools with prices and descriptions.  A user selects a tool and it gives you a summary of the selected tools.
 
 ## Instructions
 
